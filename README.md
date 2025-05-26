@@ -1,1 +1,3 @@
 # ai_data_science_practice
+
+Lets code it AI and Data Science code...
